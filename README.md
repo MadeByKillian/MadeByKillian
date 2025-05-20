@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Kiki !
+  <img src="https://cdn.svgator.com/images/2024/01/svgator-bird-alligator-cta.gif"/>
+🎯 Développeur passionné, spécialisé en Java
+💡 J’aime construire des projets propres, efficaces et bien organisés  
+🚀 Toujours curieux d’apprendre de nouvelles technologies et bonnes pratiques
 
-<!--
-**GIGACHAF/GIGACHAF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Compétences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ☕ Java (Spring, JavaFX, etc.)
+- 🐘 SQL
+- 🧪 Tests unitaires (JUnit)
+- 🔧 Maven, Git, IntelliJ IDEA
+
+---
+
+
+## 📫 Me contacter
+
+Discord : Soyeskiki
+
+---
+
+> *ABADAKOR*
