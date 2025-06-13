@@ -8,10 +8,9 @@
 
 ## 🛠️ Compétences
 
-- ☕ Java (Spring, JavaFX, etc.)
+- ☕ Java 
 - 🐘 SQL
-- 🧪 Tests unitaires (JUnit)
-- 🔧 Maven, Git, IntelliJ IDEA
+- 🔧 IntelliJ IDEA,Eclipse,VScod,Pycharm
 
 ---
 
