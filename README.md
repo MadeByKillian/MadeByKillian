@@ -24,18 +24,10 @@ const killian = {
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-## 📊 GitHub Stats
+## 💼 Mes projets
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MadeByKillian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadeByKillian&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-## 🔥 Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadeByKillian&theme=tokyonight" alt="GitHub Streak"/>
-</div>
+En cours de construction... 🚧  
+Restez connectés pour découvrir mes prochaines créations !
 
 ## 🌐 Me retrouver
 
