@@ -53,7 +53,7 @@ const killian = {
       </p>
       <p align="center">Script bash pour télécharger des animes en ligne de commande. Menu interactif TUI, multi-lecteurs, compatible Docker/BusyBox.</p>
       <p align="center">
-        <a href="https://github.com/MadeByKillian/anime-dl">
+        <a href="https://github.com/MadeByKillian/KIKINIM">
           <img src="https://img.shields.io/badge/Voir le repo-24292e?style=for-the-badge&logo=github"/>
         </a>
       </p>
