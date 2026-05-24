@@ -30,21 +30,7 @@ const killian = {
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🎌 KIKINIM</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
-      </p>
-      <p align="center">Application Windows pour télécharger des animes depuis Anime-Sama. Interface graphique moderne, détection automatique du meilleur lecteur, fallback multi-sources.</p>
-      <p align="center">
-        <a href="https://github.com/MadeByKillian/kikinim/releases">
-          <img src="https://img.shields.io/badge/⬇️ Télécharger-blueviolet?style=for-the-badge"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
+    <td width="100%">
       <h3 align="center">🖥️ anime-dl.sh</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
